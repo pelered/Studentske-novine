@@ -1,0 +1,51 @@
+#frmForgot { 
+	padding: 20px 60px;
+	background: white;
+	color: rgb(100, 149, 237);
+	display: inline-block;		
+	border-radius: 4px;
+}
+#frmReset { 
+	padding: 20px 60px;
+	background: white;
+	color: rgb(14, 72, 199);
+	display: inline-block;		
+	border-radius: 4px;
+}
+
+.field-group {
+	margin-top:15px;
+}
+.input-field {
+	padding: 8px;
+	width: 200px;
+	border: #A3C3E7 1px solid;
+	border-radius: 4px;
+}
+.form-submit-button {
+	background: rgb(100, 149, 237);
+	border: 0;
+	padding: 8px 20px;
+	border-radius: 4px;
+	color: #FFF;
+	text-transform: uppercase;
+}
+.member-dashboard {
+	padding: 40px;
+	background: #D2EDD5;
+	color: #555;
+	border-radius: 4px;
+	display: inline-block;
+}
+.member-dashboard a {
+	color: rgb(34, 5, 219);
+	text-decoration:none;
+}
+#validation-message {
+	text-align:center;
+	color:#FF0000;
+}
+.success_message {
+	text-align:center;
+	color: rgb(8, 209, 35);
+}

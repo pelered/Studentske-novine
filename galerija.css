@@ -1,0 +1,21 @@
+.galerijamain{
+    width: 100%;
+    height: 100px;
+    margin-left: 5%;
+    margin-top: 12.5%;
+}
+.galerijadiv {
+    background-color: darkviolet;
+    height: 353px;
+    width: 350px;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    float: left;
+}
+
+.galimage{
+    height: 100%;
+    width: 100%;
+}
